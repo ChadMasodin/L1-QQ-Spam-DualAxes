@@ -1,0 +1,5 @@
+- Install the program AutoHotkey v1.1 (https://www.autohotkey.com/)
+- Run the file L1+QQ Spam DualAxes.ahk
+- To switch the macro on/off, click on the wheel mouse button (MButton).
+- If you want, you can change the values of Sleep in notepad.
+- Done, you can use it.
